@@ -47,7 +47,7 @@ Bike Use per Hour:
 
 Key Takeaway:  Most bike use is during commuting hours.
 
-### Chart 4
+### Chart 5
 
 Bike Use by User Type:
 
