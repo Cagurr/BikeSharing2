@@ -1,10 +1,10 @@
 # Bike Sharing
 
-## Deployed to https://public.tableau.com/app/profile/christopher5658/viz/DesMoinesBikeSharing-Challenge/DesMoinesBikeSharing-Challenge?publish=yes
+## Deployed to [Dashboard](https://public.tableau.com/app/profile/christopher5658/viz/DesMoinesBikeSharing-Challenge/DesMoinesBikeSharing-Challenge?publish=yes)
 
 ## Overview of Bike Sharing Analysis
 
-My friend Kate and I went on a trip to New York City for two weeks where visited all of the famous attractions.  An unexpected and pleasant part of the trip was riding around the city on rented bicycles.  We loved the experience so much that we wanted to bring bike rentals to our hometown in Des Moines, Iowa.  While brainstorming our venture, Kate found a potential investor to back the company in its infancy stages.  Before moving forward, Kate's investor wants to understand more about the bike sharing industry.  After all, the mechanics of running this business in New York could be different than Des Moines.  This page explains our analysis of Citi Bike.  
+My friend Kate and I went on a trip to New York City for two weeks where we visited all of the famous attractions.  An unexpected and pleasant part of the trip was riding around the city on rented bicycles.  We loved the experience so much that we wanted to bring bike rentals to our hometown in Des Moines, Iowa.  While brainstorming our venture, Kate found a potential investor to back the company in its infancy stages.  Before moving forward, Kate's investor wants to understand more about the bike sharing industry.  After all, the mechanics of running this business in New York could be different than Des Moines.  This page explains our analysis of Citi Bike.  
  
 ### Resources
 
@@ -21,7 +21,7 @@ Bike Checkout by Gender:
 
 ![1.png](Resources/1.png)
 
-Key Takeaway:  Most rides are male and trips are less than one hour.
+Key Takeaway:  Most riders are male, and most trips are less than one hour.
 
 ### Chart 2
 
@@ -59,9 +59,11 @@ Key Takeaway:  Most bike users are subscribers.
 
 We can glean a lot of information from the charts above.  We can tell that the majority of our users are male subscribers commuting to and from work.  We can see that the trips are typically less than an 30 minutes with 5 minute trips being the norm.  As you'd expect to go hand-in-hand with short trips, the starting and ending locations are mostly close together.  Kate and I can use this data to focus our marketing on our service to male commuters in the Des Moines downtown district.      
 
-2.  Recommendation #1:  If we had more data, we can do more analyses.  Please add more data to the data set.
+To improve our analysis, I recommend we:
 
-3.  Recommendation #2:  We need a way to export the filtered data for further analysis.  While the table format is great, we can only perform limited analyses.
+1.  Generate a worksheet with bike trips by age (workday per hour); and
+
+2.  Generate a worksheet with the trip durations by user type.
 
 ### Code Snippets
 
