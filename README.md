@@ -4,7 +4,7 @@
 
 ## Overview of Bike Sharing Analysis
 
-My friend Kate and I went on a trip to New York City for two weeks where visited all of the famous attractions.  An unexpected and pleasant part of the trip was riding around the city on rented bicycles.  We loved the experience so much that we wanted to bring bike rentals to our hometown in Des Moines, Iowa.  While brainstorming our venture, Kate found a potential investor to back the company in its infancy stages.  Before moving forward, Kate's investor wants to understand more about the bike sharing industry.  After all, the mechanics of running this business in New York could be different than Des Moines.  This page explains our analysis of Citi Bike.  
+My friend Kate and I went on a trip to New York City for two weeks where we visited all of the famous attractions.  An unexpected and pleasant part of the trip was riding around the city on rented bicycles.  We loved the experience so much that we wanted to bring bike rentals to our hometown in Des Moines, Iowa.  While brainstorming our venture, Kate found a potential investor to back the company in its infancy stages.  Before moving forward, Kate's investor wants to understand more about the bike sharing industry.  After all, the mechanics of running this business in New York could be different than Des Moines.  This page explains our analysis of Citi Bike.  
  
 ### Resources
 
@@ -21,7 +21,7 @@ Bike Checkout by Gender:
 
 ![1.png](Resources/1.png)
 
-Key Takeaway:  Most rides are male and trips are less than one hour.
+Key Takeaway:  Most riders are male, and most trips are less than one hour.
 
 ### Chart 2
 
